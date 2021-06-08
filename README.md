@@ -1,6 +1,7 @@
 # reduxperms
 perms for redux
 
+the new ensure is "ensure DiscordReports" thats it
 
 THE BOT TOKEN IS INVALID YOU WILL NEED TO ASK FOR A NEW BOT TOKEN FROM Lurkz™#9240 AS DISCORD KILLED THE BOT TOKEN BC UPLOADING IT ONTO GITHIB
 
